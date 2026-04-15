@@ -12,6 +12,7 @@ export default function Header() {
           <a href="#experience" className="hover:text-zinc-300 transition-colors">Experience</a>
           <a href="#education" className="hover:text-zinc-300 transition-colors">Education</a>
           <a href="#contact" className="hover:text-zinc-300 transition-colors">Contact</a>
+          <a href="/persons" className="hover:text-zinc-300 transition-colors">Persons</a>
         </nav>
       </div>
     </header>
